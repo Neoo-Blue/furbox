@@ -12,7 +12,7 @@
 - `app.html` - Main HTML file (only use when you need to add meta tags, else use svelte:head tag in svelte files)
 - `app.d.ts` - Typescript definitions
 
-## Running
+##. Running
 
 Install [pnpm](https://pnpm.io/) and use latest lts version of Node.js with `pnpm env use --global lts`
 
